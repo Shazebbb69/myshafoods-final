@@ -1,0 +1,5 @@
+- [ ] Update src/app/admin/layout.tsx: premium seafood-themed golden sidebar (Tailwind only)
+- [ ] Ensure sidebar full height, black text, improved spacing/typography
+- [ ] Add hover effects + smooth transitions to sidebar items
+- [ ] Keep main content clean/light background
+- [ ] Build/lint verification (optional)
